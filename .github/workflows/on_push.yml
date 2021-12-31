@@ -58,6 +58,12 @@ jobs:
       -
         name: Linter
         run: make lint
+      -
+        name: Coverage
+        uses: codecov/codecov-action@v1
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          flags: unittests
 
   test-macos:
     name: Unit Tests macOS
