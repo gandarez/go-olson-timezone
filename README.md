@@ -1,2 +1,5 @@
 # go-timezone
-A Golang library that tries to figure out what your local timezone is
+
+A Golang library that tries to figure out your local timezone.
+
+> It has been ported from [tzlocal](https://github.com/regebro/tzlocal) with some improvements for Go.
