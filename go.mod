@@ -1,4 +1,4 @@
-module github.com/gandarez/go-timezone
+module github.com/gandarez/go-olson-timezone
 
 go 1.17
 

@@ -1,6 +1,6 @@
 ---
 name: 🚀 Feature request
-about: Suggest an idea for go-timezone
+about: Suggest an idea for go-olson-timezone
 labels: to discuss
 ---
 <!--
